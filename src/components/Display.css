@@ -1,0 +1,17 @@
+.display{
+    grid-column: span 4;
+    background-color: rgba(253, 250, 250, 0.904);
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px;
+    font-size: 2.1em;
+    overflow: hidden;
+    
+}
+
+.calc {
+    color: white;
+    font-size: 30px;
+}
